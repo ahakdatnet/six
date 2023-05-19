@@ -2,3 +2,8 @@ body{
     display: block;
     font: 1em sans-serif;
 }
+
+header{
+    background-attachment: fixed;
+
+}
