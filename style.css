@@ -7,3 +7,6 @@ header{
     background-attachment: fixed;
 
 }
+h1{
+    display: block;
+}
